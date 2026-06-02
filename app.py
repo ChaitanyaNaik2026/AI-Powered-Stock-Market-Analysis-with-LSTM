@@ -16,7 +16,7 @@ end = '2025-07-14'
 
 # Load the LSTM Model with Error Handling
 try:
-    model = load_model(r'C:\Users\LUCKY NAIK\Desktop\Stock\Stock Predictions Model.keras')
+    model = load_model(r'C:\Users\LUCKY NAIK\Desktop\Stock\Untitled.ipynb')
 except Exception as e:
     st.error(f"Error loading model: {e}")
     st.stop()
