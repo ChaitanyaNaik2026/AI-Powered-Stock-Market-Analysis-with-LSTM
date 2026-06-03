@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📈 Stock Market Prediction with LSTM
 
 This project uses LSTM (Long Short-Term Memory) neural networks to predict stock prices using historical data scraped via `yfinance`. Predictions and visualizations are shown using an interactive Streamlit dashboard.
