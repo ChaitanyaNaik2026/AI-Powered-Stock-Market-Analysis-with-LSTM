@@ -21,7 +21,7 @@ This project uses LSTM (Long Short-Term Memory) neural networks to predict stock
 Stock/
 ├── app.py # Streamlit app to run stock predictor
 ├── Stock Predictions Model.keras # Pre-trained LSTM model
-├── Untitled.ipynb # Notebook version (optional)
+├── Notebook.ipynb # Notebook version (optional)
 └── README.md # Project documentation
 
 ---
@@ -217,7 +217,7 @@ stock-market-prediction/
 │
 ├── app.py
 ├── Stock Predictions Model.keras
-├── Untitled.ipynb
+├── Notebook.ipynb
 ├── requirements.txt
 └── README.md
 ```
