@@ -24,7 +24,7 @@ end = datetime.today().strftime('%Y-%m-%d')   # ✅ CHANGE 1: always use today's
 
 # ── Load Model ───────────────────────────────────────────────────────────────
 try:
-    model = load_model(r'C:\Users\LUCKY NAIK\Desktop\Stock\Untitled.ipynb')
+    model = load_model('Stock Predictions Model.keras')
 except Exception as e:
     st.error(f"Error loading model: {e}")
     st.stop()
